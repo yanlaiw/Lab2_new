@@ -1,5 +1,5 @@
 /****************
-LE2: Basic Shell
+Lab2: Basic Shell
 ****************/
 #include <unistd.h> // pipe, fork, dup2, execvp, close
 #include <sys/wait.h> // wait
