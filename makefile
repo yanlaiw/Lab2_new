@@ -24,5 +24,5 @@ clean:
 	rm -f shell a b test.txt output.txt out.trace ./test-files/cmd*.txt ./test-files/out*.txt
 
 test: all
-	chmod u+x le3-tests.sh
-	./le3-tests.sh
+	chmod u+x lab2-tests.sh
+	./lab2-tests.sh
